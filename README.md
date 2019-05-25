@@ -1,3 +1,7 @@
-## How to run this project
+# REST PROJECT
+description here
+
+## Project code
 ...
-mvn clean package
+this is a code
+...
